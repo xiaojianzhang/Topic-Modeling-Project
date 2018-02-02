@@ -1,0 +1,15 @@
+Hey guys
+
+Here's a way to give the project a more interesting twist:
+Step 1: Create the RBM and train it to identify a bunch of topics
+Step 2: Run a bunch of speeches selected by decade (1950s speeches, 1960s speeches, ...) (or another length)
+Step 3: Run a bunch of press articles on politics with the same timescales
+Step 4: compare, and see if the media induces presidential topics, or the Commander in Chief induces press articles (or both, or when...)
+
+So, for the data, I have access to NYTimes, and I'm sure we can access the BBC repositories as well.
+
+The data they provide will need some pretreatment, I will start working on that next week! :)
+
+Best,
+Jonas
+Feb 1st, 2018
